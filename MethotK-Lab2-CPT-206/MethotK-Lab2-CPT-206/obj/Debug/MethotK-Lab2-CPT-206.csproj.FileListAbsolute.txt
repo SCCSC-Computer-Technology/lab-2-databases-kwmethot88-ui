@@ -1,0 +1,12 @@
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\bin\Debug\CityDB.mdf
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\bin\Debug\CityDB_log.ldf
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\bin\Debug\MethotK-Lab2-CPT-206.exe.config
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\bin\Debug\MethotK-Lab2-CPT-206.exe
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\bin\Debug\MethotK-Lab2-CPT-206.pdb
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK-Lab2-CPT-206.csproj.AssemblyReference.cache
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK_Lab2_CPT_206.Form1.resources
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK_Lab2_CPT_206.Properties.Resources.resources
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK-Lab2-CPT-206.csproj.GenerateResource.cache
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK-Lab2-CPT-206.csproj.CoreCompileInputs.cache
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK-Lab2-CPT-206.exe
+C:\Users\rltka\source\repos\MethotK-Lab2-CPT-206\MethotK-Lab2-CPT-206\obj\Debug\MethotK-Lab2-CPT-206.pdb
